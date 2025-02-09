@@ -33,7 +33,7 @@ class Db:
 
   # Function to load the words from a JSON file
   def load_json(self, filepath):
-    with open(filepath, 'r') as file:
+    with open(filepath, 'r', encoding="utf-8") as file:
       return json.load(file)
 
   def setup_tables(self,cursor):

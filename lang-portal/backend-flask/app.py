@@ -69,6 +69,10 @@ def create_app(test_config=None):
     routes.dashboard.load(app)
     routes.study_activities.load(app)
     
+    @app.route("/")
+    def index():
+        return "<h1>Hello!</h1>"
+    
     return app
 
 app = create_app()
