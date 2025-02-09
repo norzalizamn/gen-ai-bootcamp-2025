@@ -1,0 +1,128 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.11">
+  <diagram name="Page-1" id="XGFJKn74wzzEY6qgSuGr">
+    <mxGraphModel dx="2178" dy="1224" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2gmNj-pyCI4hmsBpCYHp-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2gmNj-pyCI4hmsBpCYHp-3" target="2gmNj-pyCI4hmsBpCYHp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2gmNj-pyCI4hmsBpCYHp-3" value="Student" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Users.svg;" vertex="1" parent="1">
+          <mxGeometry x="40" y="130" width="64" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2gmNj-pyCI4hmsBpCYHp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="2gmNj-pyCI4hmsBpCYHp-4" target="2gmNj-pyCI4hmsBpCYHp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2gmNj-pyCI4hmsBpCYHp-4" value="Teacher" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Users.svg;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="64" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2gmNj-pyCI4hmsBpCYHp-5" value="Lang Portal" style="rounded=1;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="160" y="195" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2gmNj-pyCI4hmsBpCYHp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2gmNj-pyCI4hmsBpCYHp-6" target="2gmNj-pyCI4hmsBpCYHp-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2gmNj-pyCI4hmsBpCYHp-21" value="Session" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2gmNj-pyCI4hmsBpCYHp-15">
+          <mxGeometry x="0.343" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2gmNj-pyCI4hmsBpCYHp-6" value="Word Group" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="230" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2gmNj-pyCI4hmsBpCYHp-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2gmNj-pyCI4hmsBpCYHp-9" target="2gmNj-pyCI4hmsBpCYHp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2gmNj-pyCI4hmsBpCYHp-9" value="Database" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;arcSize=26;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="165" y="420" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2gmNj-pyCI4hmsBpCYHp-10" value="Core 2000 words" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="197.5" y="452.5" width="155" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="2gmNj-pyCI4hmsBpCYHp-19" value="" style="group;strokeWidth=0;opacity=30;fillColor=none;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="470" y="180" width="565" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="2gmNj-pyCI4hmsBpCYHp-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="2gmNj-pyCI4hmsBpCYHp-19">
+          <mxGeometry x="30" y="45" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2gmNj-pyCI4hmsBpCYHp-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="2gmNj-pyCI4hmsBpCYHp-19">
+          <mxGeometry x="20" y="35" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2gmNj-pyCI4hmsBpCYHp-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="2gmNj-pyCI4hmsBpCYHp-19">
+          <mxGeometry x="10" y="25" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2gmNj-pyCI4hmsBpCYHp-11" value="Study Activities" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;textDirection=ltr;" vertex="1" parent="2gmNj-pyCI4hmsBpCYHp-19">
+          <mxGeometry y="15" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2gmNj-pyCI4hmsBpCYHp-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="2gmNj-pyCI4hmsBpCYHp-19">
+          <mxGeometry x="210" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2gmNj-pyCI4hmsBpCYHp-29" value="LLM 7B" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;" vertex="1" parent="2gmNj-pyCI4hmsBpCYHp-19">
+          <mxGeometry x="350" y="425" width="130" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="2gmNj-pyCI4hmsBpCYHp-27" value="Prompt&lt;br&gt;Cache" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;" vertex="1" parent="2gmNj-pyCI4hmsBpCYHp-19">
+          <mxGeometry x="190" y="370" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2gmNj-pyCI4hmsBpCYHp-23" value="Vector&lt;div&gt;Database&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="2gmNj-pyCI4hmsBpCYHp-19">
+          <mxGeometry x="50" y="225" width="80" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="2gmNj-pyCI4hmsBpCYHp-40" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_3;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="2gmNj-pyCI4hmsBpCYHp-19">
+          <mxGeometry x="170" y="230" width="79.5" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="2gmNj-pyCI4hmsBpCYHp-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2gmNj-pyCI4hmsBpCYHp-19" source="2gmNj-pyCI4hmsBpCYHp-26" target="2gmNj-pyCI4hmsBpCYHp-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="350" />
+              <mxPoint x="210" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2gmNj-pyCI4hmsBpCYHp-26" value="RAG" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;arcSize=16;" vertex="1" parent="2gmNj-pyCI4hmsBpCYHp-19">
+          <mxGeometry x="40" y="370" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2gmNj-pyCI4hmsBpCYHp-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2gmNj-pyCI4hmsBpCYHp-19" source="2gmNj-pyCI4hmsBpCYHp-26" target="2gmNj-pyCI4hmsBpCYHp-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2gmNj-pyCI4hmsBpCYHp-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2gmNj-pyCI4hmsBpCYHp-19" source="2gmNj-pyCI4hmsBpCYHp-26" target="2gmNj-pyCI4hmsBpCYHp-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2gmNj-pyCI4hmsBpCYHp-28" value="Input GuardRail" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;" vertex="1" parent="2gmNj-pyCI4hmsBpCYHp-19">
+          <mxGeometry x="350" y="375" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2gmNj-pyCI4hmsBpCYHp-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2gmNj-pyCI4hmsBpCYHp-19" source="2gmNj-pyCI4hmsBpCYHp-27" target="2gmNj-pyCI4hmsBpCYHp-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2gmNj-pyCI4hmsBpCYHp-48" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Study Activity (Sentence Constructor)&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillColor=none;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;spacing=0;spacingLeft=0;spacingRight=0;" vertex="1" parent="2gmNj-pyCI4hmsBpCYHp-19">
+          <mxGeometry x="-25" y="190" width="540" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="2gmNj-pyCI4hmsBpCYHp-22" value="&lt;ul&gt;&lt;li&gt;Writing Practicing App&lt;/li&gt;&lt;li&gt;Text Adventure Immersion Game&lt;/li&gt;&lt;li&gt;Light Visual Novel Immersion Reading&lt;/li&gt;&lt;li&gt;Sentence Constructor&lt;/li&gt;&lt;li&gt;Visual Flashcard Vocab&lt;/li&gt;&lt;li&gt;Speak to Learn&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=-1;spacingTop=5;" vertex="1" parent="1">
+          <mxGeometry x="690" y="180" width="290" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="2gmNj-pyCI4hmsBpCYHp-30" value="Output GuardRail" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="730" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2gmNj-pyCI4hmsBpCYHp-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2gmNj-pyCI4hmsBpCYHp-31" target="2gmNj-pyCI4hmsBpCYHp-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2gmNj-pyCI4hmsBpCYHp-31" value="Teacher" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Users.svg;" vertex="1" parent="1">
+          <mxGeometry x="340" y="610" width="64" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2gmNj-pyCI4hmsBpCYHp-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2gmNj-pyCI4hmsBpCYHp-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="617" y="750" />
+              <mxPoint x="617" y="660" />
+              <mxPoint x="405" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2gmNj-pyCI4hmsBpCYHp-47" value="Response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2gmNj-pyCI4hmsBpCYHp-33">
+          <mxGeometry x="0.4749" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
